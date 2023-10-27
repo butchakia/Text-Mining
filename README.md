@@ -1,4 +1,4 @@
 # Text-Mining
 Projects here demonstrate not only the basics of text mining but also some more advanced features.
 
-![](Mining Gif.webp)
+![](https://github.com/butchakia/Text-Mining/blob/main/Mining%20Gif.webp)
